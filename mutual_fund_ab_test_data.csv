@@ -1,0 +1,52 @@
+UserID,TestGroup,SelectedFunds,HighRiskPercent,AvgPortfolioReturn,TimeTakenSeconds,ClickedFundDetails,Feedback
+U001,A,Fund3,Fund6,Fund9,Fund14,Fund18,60,11.2,190,Yes,Focused on return
+U002,A,Fund2,Fund5,Fund8,Fund11,Fund13,40,10.1,175,No,Didn’t look at risk
+U003,A,Fund1,Fund4,Fund7,Fund10,Fund19,80,12.5,200,Yes,Went for performance
+U004,A,Fund6,Fund12,Fund15,Fund16,Fund20,20,8.3,160,No,Picked randomly
+U005,A,Fund2,Fund3,Fund5,Fund9,Fund17,60,10.9,210,Yes,High return funds
+U006,A,Fund1,Fund6,Fund7,Fund8,Fund13,80,11.7,190,Yes,Returns > risk
+U007,A,Fund5,Fund10,Fund14,Fund15,Fund16,20,8.8,175,No,I didn’t care for risk
+U008,A,Fund3,Fund7,Fund8,Fund10,Fund18,60,10.5,220,Yes,Performance focus
+U009,A,Fund2,Fund5,Fund9,Fund11,Fund12,40,9.7,200,No,Just balanced choices
+U010,A,Fund1,Fund6,Fund8,Fund13,Fund14,80,11.3,230,Yes,Wanted high gains
+U011,A,Fund3,Fund5,Fund7,Fund15,Fund20,40,9.2,160,No,Fair mix
+U012,A,Fund1,Fund2,Fund3,Fund4,Fund5,60,10.8,210,Yes,Ignore risk
+U013,A,Fund6,Fund8,Fund9,Fund11,Fund14,60,10.6,205,Yes,Only return focused
+U014,A,Fund1,Fund5,Fund7,Fund10,Fund13,80,12.1,220,Yes,High volatility OK
+U015,A,Fund4,Fund9,Fund15,Fund16,Fund19,20,7.9,190,No,Safe options
+U016,A,Fund2,Fund4,Fund7,Fund12,Fund18,40,9.8,185,No,Midway
+U017,A,Fund3,Fund6,Fund9,Fund11,Fund14,60,11.1,195,Yes,No risk data shown
+U018,A,Fund1,Fund4,Fund8,Fund13,Fund17,60,10.3,210,Yes,Return-based pick
+U019,A,Fund5,Fund10,Fund11,Fund16,Fund20,20,8.5,175,No,Low risk good
+U020,A,Fund2,Fund3,Fund6,Fund9,Fund14,60,10.9,200,Yes,High return combo
+U021,A,Fund7,Fund8,Fund10,Fund11,Fund13,40,9.4,190,No,Balanced
+U022,A,Fund1,Fund3,Fund5,Fund7,Fund9,80,12.3,215,Yes,Chose aggressive
+U023,A,Fund4,Fund8,Fund12,Fund16,Fund19,20,7.6,160,No,Just clicked anything
+U024,A,Fund2,Fund6,Fund9,Fund13,Fund18,60,10.7,205,Yes,I go by trend
+U025,A,Fund5,Fund6,Fund10,Fund14,Fund20,40,9.6,190,No,Didn’t matter
+
+U026,B,Fund2,Fund4,Fund10,Fund15,Fund19,20,7.8,180,No,Risk tag helped
+U027,B,Fund3,Fund5,Fund7,Fund12,Fund16,40,9.1,195,Yes,Avoided red funds
+U028,B,Fund1,Fund2,Fund4,Fund6,Fund18,20,8.0,170,No,Low risk preferred
+U029,B,Fund5,Fund7,Fund8,Fund11,Fund14,40,9.2,200,Yes,Looked at label
+U030,B,Fund2,Fund3,Fund9,Fund13,Fund17,40,9.4,205,Yes,Labels were helpful
+U031,B,Fund1,Fund4,Fund5,Fund6,Fund10,20,8.3,190,No,Played safe
+U032,B,Fund3,Fund5,Fund7,Fund12,Fund18,40,9.5,200,Yes,Avoided high risk
+U033,B,Fund2,Fund4,Fund6,Fund11,Fund13,20,7.9,185,No,Looked safe
+U034,B,Fund1,Fund3,Fund5,Fund8,Fund14,60,10.6,210,Yes,One red fund only
+U035,B,Fund2,Fund3,Fund6,Fund9,Fund17,40,9.8,220,Yes,Risk aware
+U036,B,Fund4,Fund6,Fund10,Fund13,Fund15,20,8.1,180,No,Avoided red tags
+U037,B,Fund2,Fund5,Fund7,Fund12,Fund16,40,9.3,195,Yes,Used tag filter
+U038,B,Fund1,Fund3,Fund6,Fund9,Fund14,60,10.2,210,Yes,Chose mix
+U039,B,Fund2,Fund4,Fund8,Fund11,Fund13,20,7.7,185,No,Risk aversion
+U040,B,Fund3,Fund5,Fund10,Fund14,Fund20,40,9.0,200,Yes,Compared colors
+U041,B,Fund1,Fund3,Fund7,Fund9,Fund18,60,10.1,215,Yes,Picked some high
+U042,B,Fund2,Fund4,Fund6,Fund11,Fund13,20,8.0,175,No,Looked only green
+U043,B,Fund3,Fund5,Fund8,Fund14,Fund16,40,9.4,200,Yes,Color-coded decision
+U044,B,Fund2,Fund4,Fund7,Fund10,Fund12,20,8.3,180,No,Only safe options
+U045,B,Fund1,Fund6,Fund9,Fund13,Fund18,60,10.7,220,Yes,Risk tag ignored
+U046,B,Fund2,Fund3,Fund5,Fund8,Fund11,40,9.5,195,Yes,Good UX
+U047,B,Fund4,Fund6,Fund10,Fund12,Fund16,20,8.2,185,No,Avoided risk
+U048,B,Fund3,Fund6,Fund9,Fund13,Fund14,60,10.3,210,Yes,Red = danger
+U049,B,Fund2,Fund5,Fund7,Fund10,Fund15,20,8.4,190,No,Safe investor
+U050,B,Fund1,Fund4,Fund6,Fund12,Fund17,20,7.9,175,No,Risk-aware
