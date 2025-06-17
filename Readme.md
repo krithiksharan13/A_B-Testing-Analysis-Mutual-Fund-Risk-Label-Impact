@@ -9,18 +9,18 @@ This repository contains the full A/B testing analysis project focused on unders
 - PDF report
 
 ---
-
+<br></br>
 ## 📁 Repository Structure
 
-A_B-Testing-Analysis-Mutual-Fund-Risk-Label-Impact/
-│
-├── mutual_fund_ab_test_data.csv # Synthetic user data
-├── ab_test_analysis_mutual_funds.ipynb # Full Jupyter Notebook for analysis
-├── mutual_fund_ab_test_report.pdf # Auto-generated project summary report
+A_B-Testing-Analysis-Mutual-Fund-Risk-Label-Impact/ \
+│\
+├── mutual_fund_ab_test_data.csv # Synthetic user data\
+├── ab_test_analysis_mutual_funds.ipynb # Full Jupyter Notebook for analysis\
+├── mutual_fund_ab_test_report.pdf # Auto-generated project summary report\
 ├── README.md # Project overview & usage instructions
 
 ---
-
+<br></br>
 ## 📌 Project Objective
 
 To evaluate whether adding **risk labels** (e.g., 🔴 High Risk, 🟡 Moderate Risk) to mutual funds influences users to:
@@ -30,7 +30,7 @@ To evaluate whether adding **risk labels** (e.g., 🔴 High Risk, 🟡 Moderate 
 - Sacrifice potential returns in favor of safety
 
 ---
-
+<br></br>
 ## 📊 A/B Test Setup
 
 | Group       | Description                                     |
@@ -39,7 +39,7 @@ To evaluate whether adding **risk labels** (e.g., 🔴 High Risk, 🟡 Moderate 
 | B (Variant) | Mutual funds shown with color-coded risk labels |
 
 Users were asked to select 5 mutual funds for a simulated ₹10 lakh investment portfolio.
-
+<br></br>
 ### 📈 Key Metrics Analyzed
 
 - % of high-risk funds selected
@@ -48,7 +48,7 @@ Users were asked to select 5 mutual funds for a simulated ₹10 lakh investment 
 - Click behavior (whether users explored fund details)
 
 ---
-
+<br></br>
 ## 🧪 Statistical Tests Used
 
 | Test                | Purpose                                                |
@@ -57,8 +57,7 @@ Users were asked to select 5 mutual funds for a simulated ₹10 lakh investment 
 | **T-test**          | Compare average portfolio return                       |
 | **Chi-square test** | Analyze categorical difference in click behavior       |
 
----
-
+<br></br>
 ## 🧠 Results Summary
 
 - Users **exposed to risk labels selected significantly fewer high-risk funds**
@@ -68,39 +67,40 @@ Users were asked to select 5 mutual funds for a simulated ₹10 lakh investment 
 These findings suggest risk labels **encourage more cautious and informed decision-making**.
 
 ---
+<br></br>
+## 📜 How to Use:
 
-## 📜 How to Use
-
-1. **Clone the repository**
+### 1. **Clone the repository**
    ```
    git clone https://github.com/krithiksharan13/A_B-Testing-Analysis-Mutual-Fund-Risk-Label-Impact.git
-   cd A_B-Testing-Analysis-Mutual-Fund-Risk-Label-Impact
-   ```
-2. Install dependencies:
+   ``` 
+
+### 2. Install dependencies:
 
 ```
 pip install pandas seaborn matplotlib scipy
 ```
 
-3. Open the notebook:
-
+### 3. Open the notebook:
 Use Jupyter Lab or VS Code to run:
+```
 A/B Testing Analysis: Mutual Fund Risk Label Impact.ipynb
+```
 
-4. Explore the PDF report
-   Open A_B Testing Project Report.pdf for a formatted project summary.
-
-📢 Disclaimer
-⚠️ The dataset used in this project is completely synthetic.
-It is made-up, randomly generated user behavior data and does not represent any real individuals or investment activity.
+### 4. Explore the PDF report
+   Open *A_B Testing Project Report.pdf* for a formatted project summary.
+<br></br>
+## 📢 Disclaimer:
+⚠️ The dataset used in this project is completely synthetic.\
+It is made-up, randomly generated user behavior data and does not represent any real individuals or investment activity.\
 This was done to maintain confidentiality and comply with data privacy best practices.
-
-📬 Contact
+<br></br>
+## 📬 Contact:
 If you'd like to contribute, report an issue, or discuss the project, feel free to open an issue or contact me via GitHub.
-
+<br></br>
 ⭐ Acknowledgements
-Python (Pandas, Seaborn, SciPy)
-FPDF (for report generation)
+Python (Pandas, Seaborn, SciPy)\
+Radiant Ventures for making me work on this project\
 GitHub for hosting this repo
-
-Made with 💡 by Krithik Sharan S A
+<br></br>
+## Made with 💡 by Krithik Sharan S A
